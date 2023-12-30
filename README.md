@@ -25,6 +25,7 @@
 <a href="my-badges/old-issue-1.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true" alt="I closed an issue that was open for 1 years" title="I closed an issue that was open for 1 years" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;merge&quot;." title="My favorite word is &quot;merge&quot;." width="64"></a>
+<a href="my-badges/public-keys-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <!-- my-badges end -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prometheus1987&theme=synthwave)](https://github.com/prometheus1987/github-readme-stats)
