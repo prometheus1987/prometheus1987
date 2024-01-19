@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/b86026efb001f675c2fc91c7b7e20afc747dfabb\">b86026e</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/5e77b04e494d221cd9d4e2f1ed7db714a8eafba0\">5e77b04</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987.github.io/commit/b78fa6124f207f2d889bcc22b31a6ecefea92c93\">b78fa61</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987.github.io/commit/bb864c5c348de40fefc5c0e25fc16301ab3c09d7\">bb864c5</a>\n- <a href=\"https://github.com/prometheus1987/Space/commit/60658f7e3e439cc23595847596a8e64025135040\">60658f7</a>\n- <a href=\"https://github.com/prometheus1987/Space/commit/ceb6e38d6f4c3ef5dc69ba17baef22e0d6a50d06\">ceb6e38</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/61fee6408b406051a004bbad00d5f72d5fcd4003\">61fee64</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/6c906746780ac637998981f94bc852f6193e53d5\">6c90674</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/b86026efb001f675c2fc91c7b7e20afc747dfabb\">b86026e</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/e82838f99b749bf03b06fc659db3c7cf66353399\">e82838f</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/5e77b04e494d221cd9d4e2f1ed7db714a8eafba0\">5e77b04</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987.github.io/commit/b78fa6124f207f2d889bcc22b31a6ecefea92c93\">b78fa61</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 44 times)\n2. request (used 37 times)\n3. pull (used 33 times)\n4. from (used 33 times)\n5. update (used 20 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 52 times)\n2. request (used 44 times)\n3. pull (used 40 times)\n4. from (used 40 times)\n5. update (used 20 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
