@@ -10,14 +10,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/53ee867463f448abeab4f22b15c445f267894346\">53ee867</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/96c934fc0ef203c7aea5d941059d9eb04877a8ef\">96c934f</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/08472d8144dbfe6429ba63778202370f3497d9d3\">08472d8</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/b2b161822c3d22df741abafc1455775faa47d272\">b2b1618</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/ac77cc7f75a583146009b039ed9243d96b44fba3\">ac77cc7</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/53ee867463f448abeab4f22b15c445f267894346\">53ee867</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/96c934fc0ef203c7aea5d941059d9eb04877a8ef\">96c934f</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/08472d8144dbfe6429ba63778202370f3497d9d3\">08472d8</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987/commit/b2b161822c3d22df741abafc1455775faa47d272\">b2b1618</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/61fee6408b406051a004bbad00d5f72d5fcd4003\">61fee64</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/6c906746780ac637998981f94bc852f6193e53d5\">6c90674</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/b86026efb001f675c2fc91c7b7e20afc747dfabb\">b86026e</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/e82838f99b749bf03b06fc659db3c7cf66353399\">e82838f</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/5e77b04e494d221cd9d4e2f1ed7db714a8eafba0\">5e77b04</a>\n- <a href=\"https://github.com/prometheus1987/prometheus1987.github.io/commit/b78fa6124f207f2d889bcc22b31a6ecefea92c93\">b78fa61</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/61fee6408b406051a004bbad00d5f72d5fcd4003\">61fee64</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/6c906746780ac637998981f94bc852f6193e53d5\">6c90674</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/b86026efb001f675c2fc91c7b7e20afc747dfabb\">b86026e</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/e82838f99b749bf03b06fc659db3c7cf66353399\">e82838f</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/5e77b04e494d221cd9d4e2f1ed7db714a8eafba0\">5e77b04</a>\n- <a href=\"https://github.com/prometheus1987/Space/commit/60658f7e3e439cc23595847596a8e64025135040\">60658f7</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 52 times)\n2. request (used 44 times)\n3. pull (used 40 times)\n4. from (used 40 times)\n5. update (used 20 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 35 times)\n2. request (used 31 times)\n3. pull (used 27 times)\n4. from (used 27 times)\n5. update (used 17 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
   }
 ]
