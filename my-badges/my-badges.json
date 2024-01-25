@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/61fee6408b406051a004bbad00d5f72d5fcd4003\">61fee64</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/6c906746780ac637998981f94bc852f6193e53d5\">6c90674</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/b86026efb001f675c2fc91c7b7e20afc747dfabb\">b86026e</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/e82838f99b749bf03b06fc659db3c7cf66353399\">e82838f</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/5e77b04e494d221cd9d4e2f1ed7db714a8eafba0\">5e77b04</a>\n- <a href=\"https://github.com/prometheus1987/Space/commit/60658f7e3e439cc23595847596a8e64025135040\">60658f7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/30aa68bc69fa2e9315d3ddc873f1fb358a62f73a\">30aa68b</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/0ead6e365e4a85354583a187e156f0c49c999489\">0ead6e3</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/61fee6408b406051a004bbad00d5f72d5fcd4003\">61fee64</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/6c906746780ac637998981f94bc852f6193e53d5\">6c90674</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/b86026efb001f675c2fc91c7b7e20afc747dfabb\">b86026e</a>\n- <a href=\"https://github.com/prometheus1987/OSScripts/commit/e82838f99b749bf03b06fc659db3c7cf66353399\">e82838f</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 35 times)\n2. request (used 31 times)\n3. pull (used 27 times)\n4. from (used 27 times)\n5. update (used 17 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 36 times)\n2. request (used 32 times)\n3. pull (used 28 times)\n4. from (used 28 times)\n5. update (used 17 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
