@@ -28,6 +28,7 @@
 <a href="my-badges/public-keys-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <a href="my-badges/public-keys-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true" alt="I have two public keys" title="I have two public keys" width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
+<a href="my-badges/public-keys-1.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prometheus1987&theme=synthwave)](https://github.com/prometheus1987/github-readme-stats)
